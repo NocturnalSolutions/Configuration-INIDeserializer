@@ -1,8 +1,8 @@
 # Configuration-INIDeserializer
 
-Like [Configuration](https://github.com/IBM-Swift/Configuration), but don't want to use JSON or PList-flavored XML are good systems to write human-friendly configuration files? I agree. Let's use [INI files](https://en.wikipedia.org/wiki/INI_file) instead.
+Like [Configuration](https://github.com/IBM-Swift/Configuration), but don't think JSON or Plist-flavored XML are good markup languages for writing human-friendly configuration files? I agree. Let's use [INI files](https://en.wikipedia.org/wiki/INI_file) instead.
 
-Unlike JSON, INI files support comments, and have a far lower "noise" level than XML or JSON.
+Unlike JSON, INI files support comments, and have a far lower "noise" level than both XML and JSON.
 
 ## Example
 
