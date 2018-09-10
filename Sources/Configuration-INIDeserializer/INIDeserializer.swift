@@ -15,4 +15,7 @@ public class INIDeserializer: Deserializer {
 
         return values as Any
     }
+
+    // Empty init method to ensure it is public
+    public init() {}
 }
